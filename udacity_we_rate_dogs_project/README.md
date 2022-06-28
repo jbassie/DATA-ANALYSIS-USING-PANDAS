@@ -7,3 +7,12 @@ An archive of this Twitter data for WeRateDogs’ tweets was provided for this p
 I approached this project using the three steps of data wrangling: gather, assess, clean. In the gather phase, the image prediction data was downloaded using Python's Requests library. The additional Twitter information (i.e. retweet and favorite counts) was downloaded using the Twitter API. In the following assess step, I then inspected the generated data frames in order to find any quality or tidiness issues. The cleaning step subsequently involved implementing steps to fix the quality and tidiness issues that were previously identified.
 
 Following the data wrangling process, and some exploration and analysis of the (now clean and tidy) data, was carried out, numerous interesting results were observed.
+
+# Libraries
+- Tweepy
+- Request 
+- Matplotlib
+- Pandas
+- Numpy
+- os
+
