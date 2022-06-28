@@ -8,7 +8,7 @@ I approached this project using the three steps of data wrangling: gather, asses
 
 Following the data wrangling process, and some exploration and analysis of the (now clean and tidy) data, was carried out, numerous interesting results were observed.
 
-# Libraries
+### Libraries
 - Tweepy
 - Request 
 - Matplotlib
@@ -16,3 +16,5 @@ Following the data wrangling process, and some exploration and analysis of the (
 - Numpy
 - os
 
+### Files
+- Image_prediction.csv 
